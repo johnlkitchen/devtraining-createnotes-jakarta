@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="ast_contract" version="2" view="rpt-tempast_contract6816f79cc0a8016401c5a33be04be441">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>5bbd94a2db512300fa93bd51399619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>dfbd94a2db512300fa93bd51399619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>53bd94a2db512300fa93bd51399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>substate</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>d3bd94a2db512300fa93bd51399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vendor</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>57bd94a2db512300fa93bd51399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>starts</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>d7bd94a2db512300fa93bd51399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ends</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>5bbd94a2db512300fa93bd51399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>dbbd94a2db512300fa93bd51399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>expiration</element>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="57bd94a2db512300fa93bd51399619c4">13bd94a2db512300fa93bd51399619c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_id>5fbd94a2db512300fa93bd51399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>ast_contract</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 18:29:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13bd94a2db512300fa93bd51399619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 18:29:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-tempast_contract6816f79cc0a8016401c5a33be04be441" name="rpt-tempast_contract6816f79cc0a8016401c5a33be04be441">57bd94a2db512300fa93bd51399619c4</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
